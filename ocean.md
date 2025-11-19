@@ -6,47 +6,46 @@ Evolution of social media platforms
 
 The rise of digital communication and social media platforms began in the early 1970s starting with an email. 
  
-**1971 Email -** 
+### **1971 Email -** 
 
-Up until the early 1970s, mail could only be sent on the same machine until ARPANET, a computer network created by the US Department of Defence, was developed. <span style = "color: blue;">(MDN Web Docs, 2024)</span> A software engineer, Ray Tomlinson implemented a system allowing users to send messages between different computers known as the email. (UK, 2016) 
-
- 
-
-**1978 Bulletin Board System (BBS) -** 
-
-This was a computer network that allowed users to communicate with each other and share information. <span style = "color: blue;">(http://www.scisdata.com, n.d.)</span> This system was seen as the first accessible online community which was created by Ward Christensen and Randy Seuss. (Off the Cuff, 2020) 
+Up until the early 1970s, mail could only be sent on the same machine until ARPANET, a computer network created by the US Department of Defence, was developed. *(MDN Web Docs, 2024)* A software engineer, Ray Tomlinson implemented a system allowing users to send messages between different computers known as the email. *(UK, 2016)* 
 
  
 
-**1991 World Wide Web (WWW) -** 
+### **1978 Bulletin Board System (BBS) -** 
 
-The W.W.W. was invented by Tim Berners-Lee at CERN in 1989 and made public in 1991. <span style = "color: blue;">(Hughes, 1994)</span> He wanted to create a platform where scientists from universities and institutes all over the world could share information, so he developed the first website and web server. This was all carried out on a NeXT computer where he created the core foundations to build the web such as HTML (Hyper Text Markup Language), HTTP (Hypertext Transfer Protocol) and URI/URL (Uniform Resource Identifier/Locator). <span style = "color: blue;">(web30.web.cern.ch, n.d.)</span> (Computer history museum, 2010). Eventually, it became a global platform for many forms of communication for people around the world.  
-
- 
-
-**1997 Six Degrees -** 
-
-This was widely considered as the first online social network founded by Andrew Weinreich. Its purpose was to let you create profiles, message and list friends, and interact with other users. A year later, the company was bought for more than 125 million by Youth Stream Media and ended up shutting down in 2001. Six Degrees was basically the blueprint for many social media platforms that are around today. (AI-FutureSchool, 2025)
-<span style = "color: blue;">(Honore, 2019)</span> 
-
- 
-**1999 Black Planet -** 
-
-Created by Omar Wasow, Black Planet was a community website for African Americans which started as a place to post personal web pages and continued to add matchmaking and job postings. The site also included news, polls and political discussions catered towards the African American community <span style = "color; blue:">(magazine, 2025)</span>. In 2008, the site was acquired by a media company called Radio One which led to making it a much larger media network. <span style = "color; blue;">(Holmes, 2008)</span> 
-
- 
-**2003 MySpace -** 
-
-Launched by Tom Anderson and Chris DeWolfe, this was the most used social media platform at the time. The site allowed users to edit literally everything on their profile, talk with friends, and to meet and become friends with new people. <span style = "color: blue;">(Britannica,2022)</span> In 2005, the site was acquired by News Corporation for 58 million reaching a peak of over 100 million users (Bbc.co.uk, 2025). In 2008, the site was facing a decline due to Facebook overtaking it and in 2011, Myspace shifted towards becoming a music focused platform as it was sold to Specific Media and Justin Timberlake for 35 million <span style = "color; blue;">(Britannica, 2022)</span> 
-
+This was a computer network that allowed users to communicate with each other and share information. *(http://www.scisdata.com, n.d.)* This system was seen as the first accessible online community which was created by Ward Christensen and Randy Seuss. (Off the Cuff, 2020) 
 
  
 
-**2004 Facebook -**  
+### **1991 World Wide Web (WWW) -** 
 
-**2006 Twitter -**
+The W.W.W. was invented by Tim Berners-Lee at CERN in 1989 and made public in 1991.*(Hughes, 1994)* He wanted to create a platform where scientists from universities and institutes all over the world could share information, so he developed the first website and web server. This was all carried out on a NeXT computer where he created the core foundations to build the web such as HTML (Hyper Text Markup Language), HTTP (Hypertext Transfer Protocol) and URI/URL (Uniform Resource Identifier/Locator). *(web30.web.cern.ch, n.d.)* *(Computer history museum, 2010)*. Eventually, it became a global platform for many forms of communication for people around the world.  
 
-**2010 Instagram -**  
+ 
+### **1997 Six Degrees -** 
+
+This was widely considered as the first online social network founded by Andrew Weinreich. Its purpose was to let you create profiles, message and list friends, and interact with other users. A year later, the company was bought for more than 125 million by Youth Stream Media and ended up shutting down in 2001. Six Degrees was basically the blueprint for many social media platforms that are around today. *(AI-FutureSchool, 2025)*
+*(Honore, 2019)*
+
+ 
+### **1999 Black Planet -** 
+
+Created by Omar Wasow, Black Planet was a community website for African Americans which started as a place to post personal web pages and continued to add matchmaking and job postings. The site also included news, polls and political discussions catered towards the African American community *(magazine, 2025)*. In 2008, the site was acquired by a media company called Radio One which led to making it a much larger media network. *(Holmes, 2008)*
+
+ 
+### **2003 MySpace -** 
+
+Launched by Tom Anderson and Chris DeWolfe, this was the most used social media platform at the time. The site allowed users to edit literally everything on their profile, talk with friends, and to meet and become friends with new people. *(Britannica,2022)* In 2005, the site was acquired by News Corporation for 58 million reaching a peak of over 100 million users *(Bbc.co.uk, 2025)*. In 2008, the site was facing a decline due to Facebook overtaking it and in 2011, Myspace shifted towards becoming a music focused platform as it was sold to Specific Media and Justin Timberlake for 35 million *(Britannica, 2022)*
+
+
+ 
+
+### **2004 Facebook -**  
+
+### **2006 Twitter -**
+
+### **2010 Instagram -**  
 
  
 
