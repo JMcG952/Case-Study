@@ -20,7 +20,7 @@ This was a computer network that allowed users to communicate with each other an
 
 ### **1991 World Wide Web (WWW) -** 
 
-The W.W.W. was invented by Tim Berners-Lee at CERN in 1989 and made public in 1991.*(Hughes, 1994)* He wanted to create a platform where scientists from universities and institutes all over the world could share information, so he developed the first website and web server. This was all carried out on a NeXT computer where he created the core foundations to build the web such as HTML (Hyper Text Markup Language), HTTP (Hypertext Transfer Protocol) and URI/URL (Uniform Resource Identifier/Locator). *(web30.web.cern.ch, n.d.)* *(Computer history museum, 2010)*. Eventually, it became a global platform for many forms of communication for people around the world.  
+The W.W.W. was invented by Tim Berners-Lee at CERN in 1989 and made public in 1991.*(Hughes, 1994)* He wanted to create a platform where scientists from universities and institutes all over the world could share information, so he developed the first website and web server. This was all carried out on a NeXT computer where he created the core foundations to build the web such as HTML (Hyper Text Markup Language), HTTP (Hypertext Transfer Protocol) and URI/URL (Uniform Resource Identifier/Locator). *(web30.web.cern.ch, n.d.)* *(Computer history museum, 2010)*. Eventually, it became a global platform for many forms of communication for people around the world. (Emails, Social media, etc)
 
  
 ### **1997 Six Degrees -** 
@@ -36,12 +36,14 @@ Created by Omar Wasow, Black Planet was a community website for African American
  
 ### **2003 MySpace -** 
 
-Launched by Tom Anderson and Chris DeWolfe, this was the most used social media platform at the time. The site allowed users to edit literally everything on their profile, talk with friends, and to meet and become friends with new people. *(Britannica,2022)* In 2005, the site was acquired by News Corporation for 58 million reaching a peak of over 100 million users *(Bbc.co.uk, 2025)*. In 2008, the site was facing a decline due to Facebook overtaking it and in 2011, Myspace shifted towards becoming a music focused platform as it was sold to Specific Media and Justin Timberlake for 35 million *(Britannica, 2022)*
+Launched by Tom Anderson and Chris DeWolfe, this was the most used social media platform at the time. The site allowed users to edit literally everything on their profile, talk with friends, and to meet and become friends with new people. *(Britannica,2022)* In 2005, the site was acquired by News Corporation for 58 million reaching a peak of over 100 million users *(Bbc.co.uk, 2025)*. In 2008, the site was facing a decline due to Facebook overtaking it and in 2011, Myspace shifted towards becoming a music focused platform as it was sold to Specific Media for 35 million *(Britannica, 2022)*
 
 
  
 
-### **2004 Facebook -**  
+### **2004 Facebook -** 
+
+Founded by Mark Zuckerberg, Eduardo Saverin, Dustin Moskovitz, and Chris Hughes who were all students at Harvard. Initially limited to Harvard students, it expanded to other universities and eventually launched to the public in 2006. Facebook became the biggest social network in the world almost reaching 3 billion users by 2021 (Hall, 2024). 
 
 ### **2006 Twitter -**
 
@@ -112,3 +114,12 @@ The Editors of Encyclopaedia Britannica (2022). Myspace | History, Creators, & F
 
 
 Bbc.co.uk. (2025). BBC NEWS | Business | News Corp in $580m internet buy. [online] Available at: http://news.bbc.co.uk/2/hi/business/4695495.stm. 
+
+
+Hall, M. (2024). Facebook. [online] Britannica. Available at: https://www.britannica.com/money/Facebook.
+
+
+
+‌
+
+‌
