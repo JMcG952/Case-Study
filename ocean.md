@@ -36,16 +36,17 @@ Created by Omar Wasow, Black Planet was a community website for African American
  
 ### **2003 MySpace -** 
 
-Launched by Tom Anderson and Chris DeWolfe, this was the most used social media platform at the time. The site allowed users to edit literally everything on their profile, talk with friends, and to meet and become friends with new people. *(Britannica,2022)* In 2005, the site was acquired by News Corporation for 58 million reaching a peak of over 100 million users *(Bbc.co.uk, 2025)*. In 2008, the site was facing a decline due to Facebook overtaking it and in 2011, Myspace shifted towards becoming a music focused platform as it was sold to Specific Media for 35 million *(Britannica, 2022)*
+Launched by Tom Anderson and Chris DeWolfe, this was the most used social media platform at the time. The site basically had most the core features found in todays social media platforms.*(Britannica,2022)* In 2005, the MySpace was acquired by News Corporation for 58 million reaching a peak of over 100 million users *(Bbc.co.uk, 2025)*. In 2008, the site was facing a decline due to Facebook overtaking it and in 2011, MySpace shifted towards becoming a music focused platform as it was sold to an online advertising network called Specific Media for 35 million *(Britannica, 2022)*
 
 
- 
+ ### **2004 Facebook -** 
 
-### **2004 Facebook -** 
-
-Founded by Mark Zuckerberg, Eduardo Saverin, Dustin Moskovitz, and Chris Hughes who were all students at Harvard. Initially limited to Harvard students, it expanded to other universities and eventually launched to the public in 2006. Facebook became the biggest social network in the world almost reaching 3 billion users by 2021 (Hall, 2024). 
+Founded by Mark Zuckerberg, Eduardo Saverin, Dustin Moskovitz, and Chris Hughes who were all students at Harvard. Initially limited to Harvard students, it expanded to other universities and eventually launched to the public in 2006. Facebook became the biggest social network in the world almost reaching 3 billion users by 2021 (Hall, 2024). In 2021, it had a corporate rebrand to "Meta" shifting towards creating the metaverse. (Thomas, 2021)
 
 ### **2006 Twitter -**
+
+Formally called "Twttr", the platform was created by Jack Dorsey, Noah Glass, Biz Stone, and Evan Williams. Twitter 
+
 
 ### **2010 Instagram -**  
 
@@ -119,7 +120,9 @@ Bbc.co.uk. (2025). BBC NEWS | Business | News Corp in $580m internet buy. [onlin
 Hall, M. (2024). Facebook. [online] Britannica. Available at: https://www.britannica.com/money/Facebook.
 
 
+Thomas, D. (2021). Facebook changes its name to Meta in major rebrand. BBC News. [online] 28 Oct. Available at: https://www.bbc.com/news/technology-59083601.
 
+‌
 ‌
 
 ‌
