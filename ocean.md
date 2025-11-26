@@ -45,7 +45,7 @@ Founded by Mark Zuckerberg, Eduardo Saverin, Dustin Moskovitz, and Chris Hughes 
 
 ### **2006 Twitter -**
 
-Formally called "Twttr", the platform was created by Jack Dorsey, Noah Glass, Biz Stone, and Evan Williams. Twitter 
+Formally called "Twttr", the platform thats known as the microblogging site was created by Jack Dorsey, Noah Glass, Biz Stone, and Evan Williams. Users who used the platform could interact and post a wide variety of content in the form of "tweets" which included worldwide news, politics, images, and videos. (webwise, 2014). in 2022, Elon Musk bought Twitter for 44 billion acquiring 9% ownership and renaming the platform to "X" (Wile, 2022). The use of AI has been integrated into the platform featuring a bot called Grok which can literally be used like ChatGP. It's able to answer questions under posts if you @ it and can generate images. (Ocean, 2025) 
 
 
 ### **2010 Instagram -**  
@@ -79,12 +79,7 @@ http://www.scisdata.com. (n.d.). What is an Electronic Bulletin Board? [online] 
 World Wide Web Foundation (2018). History of the Web. [online] World Wide Web Foundation. Available at: https://webfoundation.org/about/vision/history-of-the-web/. 
 
  
-
- 
-
 Hughes, K. (1994). Entering the world-wide web. ACM SIGWEB Newsletter, 3(1), pp.4–8. Doi: HTTPs://doi.org/10.1145/181894.181895. 
-
- 
 
 Yusuf Mubaraq (2024). A Brief History Of The Internet And The World Wide Web. [online] DEV Community. Available at: https://dev.to/baraq/a-brief-history-of-the-internet-and-the-world-wide-web-1mhm [Accessed 15 Nov. 2025]. 
 
@@ -121,6 +116,13 @@ Hall, M. (2024). Facebook. [online] Britannica. Available at: https://www.britan
 
 
 Thomas, D. (2021). Facebook changes its name to Meta in major rebrand. BBC News. [online] 28 Oct. Available at: https://www.bbc.com/news/technology-59083601.
+
+
+‌webwise (2014). Explained: What is Twitter? -. [online] Webwise.ie. Available at: https://www.webwise.ie/parents/explained-what-is-twitter-2/.
+
+Wile, R. (2022). A Timeline of Elon Musk’s Takeover of Twitter. [online] NBC News. Available at: https://www.nbcnews.com/business/business-news/twitter-elon-musk-timeline-what-happened-so-far-rcna57532.
+
+‌
 
 ‌
 ‌
