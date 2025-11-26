@@ -1,0 +1,6 @@
+#Ethical Reflection 
+As social media has evolved from early apps such as email and Bulletin Board Systems to platforms that are used all around the world such as Facebook, Instagram and Reddit, it has changed how people communicate and entertain themselves. These changes bring many benefits but they also raise some ethical questions and concerns such as about privacy and power and fairness .
+
+##Balancing connection and harm
+Social media makes it easier than ever to stay connected through messages and calls which allow people to communicate with people across the world instantly allowing for people to experience things they may never find in real life. However the same features that are helping people with connections and information can also spread false information and narratives and harassment and hate instantly too. 
+Which raises ethical questions like, who is responsible when people when it starts to effect people in a bad way, the platform that it was sent on or the user who was spreading hate, or both.It also raises the question of how far should platforms go in moderating content before it becomes censorship, and what happens to peoples mental health when they are constantly exposed to negativity, unrealistic expectations and having to compare themselves to others 
