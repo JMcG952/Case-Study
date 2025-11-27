@@ -14,7 +14,7 @@ Up until the early 1970s, mail could only be sent on the same machine until ARPA
 
 ### **1978 Bulletin Board System (BBS) -** 
 
-This was a computer network that allowed users to communicate with each other and share information. *(http://www.scisdata.com, n.d.)* This system was seen as the first accessible online community which was created by Ward Christensen and Randy Seuss. (Off the Cuff, 2020) 
+This was a computer network that allowed users to communicate electronically with each other and share information. The BBS used a computer acting as a message store and is connected to a phone line by a modem. This was how the data was transferred from A to B *(http://www.scisdata.com, n.d.)* This system was seen as the first accessible online community which was created by Ward Christensen and Randy Seuss. (Off the Cuff, 2020) 
 
  
 
@@ -50,6 +50,7 @@ Formally called "Twttr", the platform thats known as the microblogging site was 
 
 ### **2010 Instagram -**  
 
+Originally called 'Burbn', Instagram was launched by Kevin Systrom and Mike Krieger as a platform for photo and video sharing. Instagram achieved a million users 3 months after launch and in 2012, Facebook bought the site for 1 billion in cash and stock. In 2020, short video content called 'Reels' were introduced to compete with Tiktok. In 2021, Instagram became a product of Meta due to the Facebook rebrand. (Ita, 2025) (Eldridge, 2024) (Bursztynsky, 2020) 
  
 
  
@@ -123,7 +124,13 @@ Thomas, D. (2021). Facebook changes its name to Meta in major rebrand. BBC News.
 Wile, R. (2022). A Timeline of Elon Musk’s Takeover of Twitter. [online] NBC News. Available at: https://www.nbcnews.com/business/business-news/twitter-elon-musk-timeline-what-happened-so-far-rcna57532.
 
 ‌
+Ita, D.-A. (2025). Instagram: What It Is, Its History, and How the Popular App Works. [online] Investopedia. Available at: https://www.investopedia.com/articles/investing/102615/story-instagram-rise-1-photo0sharing-app.asp. 
 
+
+Eldridge, A. (2024). Instagram. [online] Britannica Money. Available at: https://www.britannica.com/money/Instagram. 
+
+
+Bursztynsky, J. (2020). Facebook releases its second attempt to copy rival TikTok by leveraging Instagram’s popularity. [online] CNBC. Available at: https://www.cnbc.com/2020/08/05/facebook-launches-tiktok-competitor-instagram-reels.html. 
 ‌
 ‌
 
